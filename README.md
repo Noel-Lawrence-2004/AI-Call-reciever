@@ -24,10 +24,13 @@ An interactive, AI-powered call center dashboard built using **Next.js**, **Type
 ![Dashboard](public/screenshots/dashboard.png)
 
 ### 👥 Agent Status Page
-![Agent Status](public/screenshots/agent-status.png)
+![Agent Status](public/screenshots/AgentPool.png)
 
-### 🎧 Call Recordings
-![Recordings](public/screenshots/recordings.png)
+### 🎧 Call Conversations
+![Conversation 1 ](public/screenshots/Conversation1.png)
+
+![Conversation 2 ](public/screenshots/Conversation2.png)
+
 
 ---
 
