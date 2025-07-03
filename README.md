@@ -45,18 +45,18 @@ An interactive, AI-powered call center dashboard built using **Next.js**, **Type
 ## 📁 Project Structure
 
 ai-call-center-dashboard/
--├── app/                    # Main Next.js app folder (App Router)
--│   ├── page.tsx            # Main entry page for the dashboard
--│   └── agents/             # Agents route (e.g., agents/page.tsx for Agent List)
--├── components/             # Reusable UI and functional components
--│   ├── VoiceSimulator.tsx  # Call interaction simulator
--│   └── ui/                 # ShadCN UI components (Button, Card, etc.)
--├── public/                 # Static assets (images, icons, audio)
--│   └── screenshots/        # App screenshots for README
--├── styles/                 # Tailwind/global styles if any
--├── README.md               # Project overview and documentation
--├── package.json            # Project dependencies and scripts
--└── .gitignore              # Files to be ignored by Git
+- ├── app/                    # Main Next.js app folder (App Router)
+- │   ├── page.tsx            # Main entry page for the dashboard
+- │   └── agents/             # Agents route (e.g., agents/page.tsx for Agent List)
+- ├── components/             # Reusable UI and functional components
+- │   ├── VoiceSimulator.tsx  # Call interaction simulator
+- │   └── ui/                 # ShadCN UI components (Button, Card, etc.)
+- ├── public/                 # Static assets (images, icons, audio)
+- │   └── screenshots/        # App screenshots for README
+- ├── styles/                 # Tailwind/global styles if any
+- ├── README.md               # Project overview and documentation
+- ├── package.json            # Project dependencies and scripts
+- └── .gitignore              # Files to be ignored by Git
 
 ---
 
