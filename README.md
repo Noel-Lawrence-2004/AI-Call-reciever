@@ -62,7 +62,7 @@ ai-call-center-dashboard/
 
 1. **Clone the repo**
 
-git clone https://github.com/your-username/ai-call-center-dashboard.git
+git clone https://github.com/Noel-Lawrence-2004/AI-Call-reciever.git
 cd ai-call-center-dashboard
 
 2. **Install dependencies**
